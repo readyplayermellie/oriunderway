@@ -1,6 +1,6 @@
 export default function Counter() {
     return (
-        <div>
+        <section className="mb-20 mt-20">
             <ul className="flex p-24">
                 <li className="text-center p-16 border-r">
                     <h3 className="text-4xl">41 voet</h3>
@@ -15,6 +15,6 @@ export default function Counter() {
                     <p>Freek, Melanie en Mik de hond</p>
                 </li>
             </ul>
-        </div>
+        </section>
     )
 }
